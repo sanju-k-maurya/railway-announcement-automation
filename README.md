@@ -32,6 +32,9 @@ announce_hindi.xlsx  (File containing list of trains whose announcement is gener
 python main.py
 ```
 
+Note : Make sure you are connected to internet since we are using gtts(Googel text to speech) library.
+gtts is an easy tool to convert text to voice, but it requires an internet connection to operate because it depends entirely on Google to get the audion data.
+
 After execution first intermediate .mp3 files will be generated.
 
 Then individual announcement for each train present in the table(announce_hindi.xlsx) will be generated.
