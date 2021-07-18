@@ -34,4 +34,4 @@ python main.py
 
 After execution first intermediate .mp3 files will be generated.
 
-Then individual announcement for each train in the table(announce_hindi.xlsx) will be generated.
+Then individual announcement for each train present in the table(announce_hindi.xlsx) will be generated.
