@@ -20,3 +20,10 @@ Note : xlrd version 1.2.0 has been used since updated version can't open .xlsx f
 
 Also install and configure ffmpeg.
 
+### Initial files
+```
+main.py      (Python file to generate announcement)
+railway.mp3  (mp3 file to get audio snippets )
+announce_hindi.xlsx  (File containing list of trains whose announcement is generated)
+```
+
