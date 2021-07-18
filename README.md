@@ -27,3 +27,11 @@ railway.mp3  (mp3 file to get audio snippets )
 announce_hindi.xlsx  (File containing list of trains whose announcement is generated)
 ```
 
+### How to run
+```
+python main.py
+```
+
+After execution first intermediate .mp3 files will be generated.
+
+Then individual announcement for each train in the table(announce_hindi.xlsx) will be generated.
