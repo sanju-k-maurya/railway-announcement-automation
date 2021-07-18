@@ -17,5 +17,6 @@ pip install pandas
 pip install xlrd==1.2.0
 ```
 Note : xlrd version 1.2.0 has been used since updated version can't open .xlsx files.
-Also install and configure ffmpeg
+
+Also install and configure ffmpeg.
 
